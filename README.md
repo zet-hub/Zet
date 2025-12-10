@@ -4,7 +4,7 @@
 
 <br/>
 
-# 🖤 Minimalist Dark Mode Profile
+# 🖤 My Current Skills and Abilities
 
 <p>Building software, exploring cybersecurity, and creating digital experiences.</p>
 
