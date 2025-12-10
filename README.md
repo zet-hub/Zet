@@ -81,18 +81,10 @@ Unity • Godot • Roblox Studio
 ## 🔗 Connect With Me
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:yourgmail@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black)](#)
-
-</div>
-
----
-
-## ✨ Custom SVG Accent
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/svg/black.svg" width="100%" />
+[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:fitzger.cascara@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=black)](https://www.facebook.com/fitzcascara)
+[![Discord](https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/users/887557307670601830)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black)](www.linkedin.com/in/fitz-gerard-cascara)
 
 </div>
 
